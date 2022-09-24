@@ -1,0 +1,19 @@
+/*int m;
+  cin >> m;
+  for (int i = 0; i < m; ++i) {
+    string command;
+    int n;
+    if (command == "enqueue") {
+      cin >> n;
+    } else if (command == "dequeue") {
+
+    } else if (command == "front") {
+
+    } else if (command == "size") {
+
+    } else if (command == "clear") {
+
+    } else if (command == "min") {
+
+    }
+  }*/
